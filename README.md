@@ -1,2 +1,2 @@
 # Vikas-gupta-portfolio
-I create a portfolio  Using Html Css and javascript skill base and in my portfolio also used animation to creative webpage.
+I am a passionate web developer skilled in creating responsive, user-friendly, and modern websites. I specialize in HTML, CSS, JavaScript, and frontend development, focusing on clean design, performance, and seamless user experience.
